@@ -1,9 +1,26 @@
-# Tablo
-React'ı kullanarak basit bir tablo yapalım. Bu tablonun sütunlarının adları belirli olsun ve satırlarda yer alan aralıklara yazacağımız verileri ekleyebiliriz.
+# Hazır Şablonlu Tablo
+React'ı kullanarak basit bir tablo yapalım.
+
+Bu tablonun sütunlarının adları belirli olsun ve satırlarda yer alan aralıklara yazacağımız verileri ekleyebiliriz.
+
+
 Aşağıda bu kodun çıktısının birkaç ekran görüntüsünü bulabilirsiniz.
 
 
+
+1-)
+
+
+![Ekran Görüntüsü 1](https://github.com/meryemnurceylan/Tablo/assets/76753651/4925ecb4-4eb9-4f39-ad60-a70481c07f1d)
+
+2-)
+
+
+![Ekran Görüntüsü 2](https://github.com/meryemnurceylan/Tablo/assets/76753651/fc1995ff-9458-4f27-ab7a-51e0443343fa)
+
 İyi çalışmalar...
+
+
 
 
 
